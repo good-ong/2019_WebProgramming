@@ -1,0 +1,20 @@
+<tr align="center" valign="center">
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-1-1<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-1-2<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-1-3<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-1-4<br>상품가격</a></td>
+</tr>
+<tr><td colspan="4" height="20"></td></tr>
+<tr align="center" valign="center">
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-2-1<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-2-2<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-2-3<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-2-4<br>상품가격</a></td>
+</tr>
+<tr><td colspan="4" height="20"></td></tr>
+<tr align="center" valign="center">
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-3-1<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-3-2<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-3-3<br>상품가격</a></td>
+  <td><a href="m_list_detail.php"><img class="it_img_file" src="h_img/test.gif"><br>상품7-3-4<br>상품가격</a></td>
+</tr>

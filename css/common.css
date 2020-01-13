@@ -1,0 +1,36 @@
+a {
+  font-size: 20px;
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  color:red;
+}
+
+.fhlm {
+  font-size: 20px;
+  color: white;
+}
+.item_name {
+  font-size: 15px;
+}
+
+.side_text {
+  padding-left:6;
+  border-bottom:0px solid #dddddd;
+}
+
+.it_img_file {
+  width:180px;
+  height:180px;
+}
+
+button {
+  border: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.m_input {
+  line-height: 40px;
+}
